@@ -1,2 +1,2 @@
 # Salary-Prediction
-Salary against year of experience
+This is an machine learning project in which SKlearn library had been implemented   .
